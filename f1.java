@@ -1,6 +1,6 @@
 // Basic Java Program: Hello World and Simple Addition
 
-public class Main {
+public class f1 {
     public static void main(String[] args) {
         
         // Print a message
